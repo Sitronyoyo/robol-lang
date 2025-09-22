@@ -278,9 +278,4 @@ stop
 ```
 The result is (16,30)
 
-# Closing Notes
-
-If you find any mistakes in this assignment, or you have any questions, please post an issue on https://github.uio.no/IN3040/H24/issues.
-
-Good luck!
 
