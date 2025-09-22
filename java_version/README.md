@@ -1,4 +1,5 @@
 ## How to run code:
+```c
 > javac *.java
 
 > java Oblig1 1
@@ -24,7 +25,7 @@ The result is (16,30)
 
 >java Oblig1 all
 rull all programs
-
+```
 
 ## Theory questions
 
